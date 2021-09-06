@@ -14,6 +14,36 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonyx&layout=compact&theme=dracula" />
 
+## Tech Blog
+A node.js express app that allows users to post tech notes and add tags. Employs user auth and a heroku instance to
+serve and persist data  
+
+![Screenshot](https://github.com/Fonyx/tech-blog/blob/main/assets/images/show.gif?raw=true "E-commerce ORM")  
+repo @ https://github.com/Fonyx/tech-blog  
+deployed @ https://fonyx-tech-stack.herokuapp.com// 
+## E-commerce ORM
+A node.js project that mocks up an e-commerce website using a mysql+sequelize backend and an express app  
+
+![Screenshot](https://github.com/Fonyx/eCommerceOrm/blob/main/Assets/images/show.gif?raw=true "E-commerce ORM")  
+repo @ https://github.com/Fonyx/eCommerceOrm  
+## Employee Tracker CMS
+A node.js project that manages a MySql database using a cli to manage company employees  
+
+![Screenshot](https://github.com/Fonyx/employeeTracker/blob/main/assets/show.gif?raw=true "Employee CMS")  
+repo @ https://github.com/Fonyx/employeeTracker  
+
+## Team Page Generator
+A node.js project that builds a team html page with links to github accounts and email addresses  
+
+![Screenshot](https://github.com/Fonyx/teamGenerator/blob/main/assets/images/show.gif?raw=true "Team page generator")  
+repo @ https://github.com/Fonyx/teamGenerator  
+
+## Readme Generator
+A node.js project that walks you through building a linked and rich readme file with api fetches to add links  
+
+![Screenshot](https://github.com/Fonyx/readmeGen/blob/main/assets/images/show.gif?raw=true "Readme generator")  
+repo @ https://github.com/Fonyx/readmeGen  
+
 ## Movie Lookup App
 We made an actor based movie lookup web app. Provide one or two actors and see a list of movies to watch and some meta details
 
