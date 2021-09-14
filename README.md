@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonyx&layout=compact&theme=dracula" />
 
+## Budgie Budgeting app
+A node.js express app that allows users to gain insights about their financial positions with graphs of their accounts 
+
+![Screenshot](https://github.com/Fonyx/budgie/blob/main/assets/images/show.gif?raw=true "E-commerce ORM")  
+repo @ https://github.com/Fonyx/budgie 
+deployed @ https://fonyx-budgie.herokuapp.com// 
 ## Tech Blog
 A node.js express app that allows users to post tech notes and add tags. Employs user auth and a heroku instance to
 serve and persist data  
