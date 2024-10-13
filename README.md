@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js and python machine learning
 - 👯 I’m looking to collaborate on simple front end projects or more advanced python projects, with a slant towards machine learning
 - 🤔 I’m looking for help with design patterns, test driven design with javascript
-- 📫 How to reach me: nick.alex.ritchie@gmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonyx&layout=compact&theme=dracula" />
 
